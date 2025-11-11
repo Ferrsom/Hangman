@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tn\\Visual Studio\\Hangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|c:\\users\\tn\\visual studio\\hangman\\hangman\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|solutionrelative:hangman\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|c:\\users\\tn\\visual studio\\hangman\\hangman\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|solutionrelative:hangman\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|c:\\users\\tn\\visual studio\\hangman\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|c:\\users\\tn\\visual studio\\hangman\\hangman\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|solutionrelative:hangman\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|c:\\users\\tn\\visual studio\\hangman\\hangman\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43B75C1-9A03-4978-B4B1-3E553610D7D8}|Hangman\\Hangman.csproj|solutionrelative:hangman\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEST.cs",
+              "DocumentMoniker": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\TEST.cs",
+              "RelativeDocumentMoniker": "Hangman\\TEST.cs",
+              "ToolTip": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\TEST.cs",
+              "RelativeToolTip": "Hangman\\TEST.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:11:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Controller.cs",
+              "RelativeDocumentMoniker": "Hangman\\Controller.cs",
+              "ToolTip": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Controller.cs",
+              "RelativeToolTip": "Hangman\\Controller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:11:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\View.cs",
+              "RelativeDocumentMoniker": "Hangman\\View.cs",
+              "ToolTip": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\View.cs",
+              "RelativeToolTip": "Hangman\\View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:11:20.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Model.cs",
+              "RelativeDocumentMoniker": "Hangman\\Model.cs",
+              "ToolTip": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Model.cs",
+              "RelativeToolTip": "Hangman\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:11:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Program.cs",
+              "RelativeDocumentMoniker": "Hangman\\Program.cs",
+              "ToolTip": "C:\\Users\\tn\\Visual Studio\\Hangman\\Hangman\\Program.cs",
+              "RelativeToolTip": "Hangman\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:09:08.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
