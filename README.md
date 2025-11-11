@@ -2,8 +2,8 @@
 
 Kleine Übung zum Kennenlernen der C#-Sprache und der MVC-Prinzipien anhand dieser Aufgabe:
 
-Hangman (Galgenmännchen)
-Klassisches Wortratespiel:
+Hangman. Klassisches Wortratespiel:
+
 -Erstelle eine Liste mit mindestens 20 verschiedenen Wörtern.
 -Wähle zufällig ein Wort aus.
 -Zeige das Wort als Unterstriche an (_ _ _ _ _).
