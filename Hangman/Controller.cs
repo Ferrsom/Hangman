@@ -1,4 +1,4 @@
-﻿
+
 namespace Hangman
 {
     public class Controller
@@ -14,17 +14,15 @@ namespace Hangman
 
         public void Start()
         {
-            //bool end = false;
 
             view.Greeting();
             var goal = model.wordGoal();
             view.Blended(goal);
-
-
             var letter = view.PlayerGuess();
-            view.Check(goal, letter);
+            model.addLetter(letter);
+            view.Check(goal,letter);
 
-
+           
         }
     }
 }
