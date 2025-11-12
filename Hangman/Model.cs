@@ -1,4 +1,4 @@
-﻿
+
 namespace Hangman
 {
     public class Model
@@ -6,7 +6,7 @@ namespace Hangman
 
         List<string> wordsList = new List<string> { "baum", "tisch", "haus", "frau", "hund", "buch", "saft", "treppe", "flasche", "fenster" };
 
-        //bool end = false;
+        List<char> lettersList = new List<char> { };
 
         Random rnd = new Random();
 
@@ -16,6 +16,10 @@ namespace Hangman
             return wordGoal;
         }
 
+        public void addLetter(char letter)
+        {
+            lettersList.Add(letter);
+        }
 
     }
 }
